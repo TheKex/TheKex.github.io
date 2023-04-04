@@ -18,7 +18,7 @@ Steps: 22, Sampler: Euler a, CFG scale: 7, Seed: 636127269, Size: 640x640, Model
   ```
 </details>
 
-![](src/00001-636127269-4356-small cosy cabin from outside.png)
+![](src/00001-636127269-4356-small_cosy_cabin_from_outside.png)
 <details>
   <summary>Промт и негатив</summary>
 
@@ -40,7 +40,7 @@ Steps: 24, Sampler: Euler a, CFG scale: 4, Seed: 1875912188, Size: 640x640, Mode
   ```
 </details>
 
-![](src/cute mage  beard  adventure time style cartoon.png)
+![](src/cute_mage_beard_adventure_time_style_cartoon.png)
 ### Контактная информация
 
 - Email: example@mail.com
